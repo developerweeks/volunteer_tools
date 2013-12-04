@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the site_volunteer_tools feature.
+ */
+
+include_once 'site_volunteer_tools.features.inc';
